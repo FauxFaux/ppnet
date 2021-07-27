@@ -1,5 +1,5 @@
 
-FROM ubuntu:latest
+FROM ubuntu:20.04
 
 MAINTAINER Rajdeep Dua "dua_rajdeep@yahoo.com"
 RUN apt-get update -y
